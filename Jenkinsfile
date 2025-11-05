@@ -1,4 +1,4 @@
-@Library("com.subhash.builds.caluclator") _
+@Library("com.sujith.sharedlib") _
 firstPipeline(
-  appName: "micro-serviceertyjkjgfd"
+  appName: "micro-service"
 )
