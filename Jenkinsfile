@@ -1,4 +1,4 @@
-@Library("com.subhash.builds") _
+@Library("com.subhash.builds@main") _
 subbu(
   appName: "micro-service"
 )
