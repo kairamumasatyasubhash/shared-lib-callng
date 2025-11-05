@@ -1,4 +1,4 @@
-@Library("com.sujith.sharedlib") _
-firstPipeline(
+@Library("com.subhash.builds") _
+subbu(
   appName: "micro-service"
 )
