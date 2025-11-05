@@ -1,4 +1,4 @@
 @Library("com.subhash.builds@main") _
-subbu(
+firstpipeline(
   appName: "micro-service"
 )
